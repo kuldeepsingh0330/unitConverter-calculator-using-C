@@ -1,11 +1,8 @@
 # unitConverter-calculator-using-C
 
 
-In this C program 
+In this program 
 
-includes following function of unit converter and calculator
-
-These folllowing mathematical operation is perform by this program :- 
 
 ![2](https://user-images.githubusercontent.com/95225751/169687737-5feaf43e-cc8b-4f42-9b36-90eee0ae6f24.png)
 
